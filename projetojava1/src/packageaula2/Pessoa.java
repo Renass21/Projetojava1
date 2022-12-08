@@ -1,4 +1,3 @@
-
 package packageaula2;
 
 import java.util.Date;
@@ -12,8 +11,6 @@ public class Pessoa {
 	private int idade;
 	
 	private Date dataNascimento;
-	
-	private Date dataNascimento2;
 
 	public Date getDataNascimento() {
 		return dataNascimento;
